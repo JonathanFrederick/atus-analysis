@@ -1,0 +1,4 @@
+data
+.direnv/
+.envrc
+.ipynb_checkpoints/
