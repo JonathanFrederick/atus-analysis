@@ -4,6 +4,18 @@
 
 Use the U.S. Department of Labor's data on Americans' time use for research and analysis.
 
+## Instructions for Running This Notebook
+- Navigated to your chosen directory
+- To this directory, download:
+  - atus-analysis.ipynb
+  - download_data.sh
+  - [Lexicon 2014](http://www.bls.gov/tus/lexiconwex2014.xls)
+- Run the following codes in terminal in your chosen directory:
+  - ```pip install -r requirements.txt```
+  - ```chmod u+x download_data.sh```
+  - ```sh download_data.sh```
+  - ```ipython notebook```
+
 ## Tasks
 ```markdown
 * [ ] Blank slate
